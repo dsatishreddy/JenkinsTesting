@@ -20,7 +20,7 @@ public class SpringBootJenkinsIntegrationApplication implements CommandLineRunne
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
 		logger.info("Its my second logger");
-		logger.info("Hello Sathish Reddy");
+		logger.info("Hello Sathish");
 		
 	}
 }
