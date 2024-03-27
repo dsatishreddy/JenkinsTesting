@@ -21,7 +21,7 @@ public class SpringBootJenkinsIntegrationApplication implements CommandLineRunne
 		// TODO Auto-generated method stub
 		logger.info("Its my second logger");
 		logger.info("Hello Lalitha");
-		logger.info("Sreenivasa Reddy");
+		logger.info("Sreenivasa Reddy dwarampudi");
 		
 	}
 }
